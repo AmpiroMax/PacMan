@@ -1,0 +1,110 @@
+# Ignore build directories
+build/
+Build/
+bin/
+Bin/
+
+# Ignore CMake build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Ignore Visual Studio files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pdb
+*.opendb
+*.obj
+*.tlog
+*.log
+*.vspscc
+*.vssscc
+*.ncb
+*.sdf
+*.suo
+*.user
+*.userossc
+*.unsaved
+ipch/
+*.aps
+*.bak
+*.cache
+*.ilk
+*.log
+*.msp
+*.obj
+*.pch
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tmp
+*.wince
+*.lastbuildstate
+
+# Ignore Qt files
+*.pro.user
+*.qmake.stash
+*.qmake.cache
+
+# Ignore other IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore compiled static libraries
+*.lib
+*.a
+
+# Ignore compiled dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Ignore executables
+*.exe
+*.out
+*.app
+
+# Ignore backup and temporary files
+*~
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Ignore generated documentation
+doc/
+
+# Ignore test result files
+test/
+
+# Ignore logs
+*.log
+*.log.*
+
+# Ignore OS generated files
+*.DS_Store
+Thumbs.db
+
+# Ignore coverage files
+*.gcno
+*.gcda
+*.gcov
+
+# Ignore debug files
+*.dSYM/
+*.dSYM/*
+
+# VS Code files
+*.vscode
